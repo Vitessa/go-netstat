@@ -1,3 +1,3 @@
-module github.com/Vitessa/go-netstat
+module github.com/vitessa/go-netstat
 
 go 1.13
